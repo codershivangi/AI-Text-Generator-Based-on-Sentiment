@@ -1,4 +1,3 @@
-# AI-Text-Generator-Based-on-Sentiment
 # AI Text Generator Based on Sentiment
 
 This project utilizes Natural Language Processing (NLP) to generate contextually relevant text based on the sentiment of input prompts. By analyzing the emotional tone of the input, it produces coherent and contextually appropriate text outputs.
