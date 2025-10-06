@@ -29,12 +29,6 @@ The AI Text Generator Based on Sentiment is designed to:
 - *Transformers*: Library for pre-trained models like GPT and BERT.
 - *Flask / Streamlit*: Web frameworks for deploying the application.
 
----
 
-## 🚀 Installation & Setup
-
-### 1. Clone the Repository
-
-```bash
 git clone https://github.com/codershivangi/AI-Text-Generator-Based-on-Sentiment.git
 cd AI-Text-Generator-Based-on-Sentiment
